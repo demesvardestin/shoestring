@@ -1,0 +1,15 @@
+.background-transparent {
+    background: transparent;
+}
+
+.no-border-radius {
+    border-radius: 0;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.display-block {
+    display: block;
+}

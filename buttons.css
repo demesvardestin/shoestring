@@ -1,0 +1,23 @@
+.btn-pill {
+    border-radius: 15px;
+}
+
+.btn-rounded {
+    border-radius: 4px;
+}
+
+.btn-straight {
+    border-radius: 0;
+}
+
+.btn-box-shadow {
+    
+}
+
+.btn-50 {
+    height: 50px;
+}
+
+.btn-40 {
+    height: 40px;
+}
